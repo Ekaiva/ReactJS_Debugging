@@ -1,4 +1,6 @@
-#Step to fix bug 
+### Step to fix bug
+
+
 Step 1: Try and console if any index we are updating same but that was not the case I check everything was good 
 step 2.  I think of deep copy in array so I tried with static verification array so it worked then 
 step 3 .when we are copying data of checks from getReferenceData to  getCandidate so that step I used deep copy
